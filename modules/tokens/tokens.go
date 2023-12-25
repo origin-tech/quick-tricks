@@ -3,7 +3,7 @@ package tokens
 
 import (
 	"fmt"
-	"github.com/indigo-sadland/quick-tricks/utils/netclient"
+	"github.com/origin-tech/quick-tricks/utils/netclient"
 	"io"
 	"net/http"
 	"strconv"
